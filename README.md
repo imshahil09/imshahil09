@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋,I'm Shaurya Pratap singh</h1>
-<h3 align="center">A passionate software developer and coding enthusiast from MNIT JAIPUR, India</h3>
+<h1 align="center">Hi 👋,I'm Shahil Gupta</h1>
+<h3 align="center">A passionate software developer and coding enthusiast from Oriental Institute of Science And Technology, India</h3>
 
 <!-- - 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend react.js,Bootstrap). -->
 
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/shaurya127/](https://github.com/shaurya127/)
+[https://github.com/imshahil09/](https://github.com/imshahil09/)
 
-- 📫 How to reach me, drop an email at **shaurya1272000@gmail.com**
+- 📫 How to reach me, drop an email at **imshahil092000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,5 +66,5 @@
     
 </p>
 
-[![SHAURYA PRATAP SINGH github stats](https://github-readme-stats.vercel.app/api?username=shaurya127&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya127&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![SHAURYA PRATAP SINGH github stats](https://github-readme-stats.vercel.app/api?username=imshahil09&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshahil09&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
