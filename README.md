@@ -66,6 +66,6 @@
     
 </p>
 
-[![SHAURYA PRATAP SINGH github stats](https://github-readme-stats.vercel.app/api?username=imshahil09&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SHAHIL GUPTA github stats](https://github-readme-stats.vercel.app/api?username=imshahil09&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshahil09&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 cl
