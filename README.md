@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at
 [https://github.com/imshahil09/](https://github.com/imshahil09/)
 
-- 📫 How to reach me, drop an email at **imshahil092000@gmail.com**
+- 📫 How to reach me, drop an email at **gshahil.0809@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
